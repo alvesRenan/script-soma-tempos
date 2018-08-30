@@ -1,0 +1,5 @@
+I/br.ufc.mdcc.mpos.offload.ProxyHandler( 3008): DebugRpc [id=0, executionCpuTime=6514, uploadTime=13662, donwloadTime=30220, uploadSize=5128139, downloadSize=5128067]
+I/br.ufc.mdcc.mpos.offload.ProxyHandler( 3008): DebugRpc [id=0, executionCpuTime=13812, uploadTime=21562, donwloadTime=1650, uploadSize=5128139, downloadSize=5128067]
+I/br.ufc.mdcc.mpos.offload.ProxyHandler( 3008): DebugRpc [id=0, executionCpuTime=6389, uploadTime=24375, donwloadTime=7520, uploadSize=5128139, downloadSize=5128067]
+I/br.ufc.mdcc.mpos.offload.ProxyHandler( 3008): DebugRpc [id=0, executionCpuTime=11266, uploadTime=15461, donwloadTime=12910, uploadSize=5128139, downloadSize=5128067]
+I/br.ufc.mdcc.mpos.offload.ProxyHandler( 3008): DebugRpc [id=0, executionCpuTime=11642, uploadTime=20856, donwloadTime=7530, uploadSize=5128139, downloadSize=5128067]
